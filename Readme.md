@@ -3,10 +3,10 @@
 <h1 align="center">GoogleCloudReady Facilitator Program </h1>
 </p>
 <div align="center">
-   <img src="https://img.shields.io/github/forks/wasimreja/gcr-leaderboard?style=for-the-badge">
-   <img src="https://img.shields.io/github/stars/wasimreja/gcr-leaderboard?style=for-the-badge">
-   <img src="https://img.shields.io/github/issues/wasimreja/gcr-leaderboard?style=for-the-badge">
-   <img src="https://img.shields.io/github/issues-pr/wasimreja/gcr-leaderboard?style=for-the-badge">
+   <img src="https://img.shields.io/github/forks/The-Shivam-garg/Google-Cloud-Facilitator-Solutions-2022?style=for-the-badge">
+   <img src="https://img.shields.io/github/stars/The-Shivam-garg/Google-Cloud-Facilitator-Solutions-2022?style=for-the-badge">
+   <img src="https://img.shields.io/github/issues/The-Shivam-garg/Google-Cloud-Facilitator-Solutions-2022?style=for-the-badge">
+   <img src="https://img.shields.io/github/issues-pr/The-Shivam-garg/Google-Cloud-Facilitator-Solutions-2022?style=for-the-badge">
 </div>
 
 ## Introduction
